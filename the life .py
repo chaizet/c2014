@@ -29,8 +29,6 @@ class Human:
           if self.satiety>=100:
               self.satiety=100
               return
-          self.satiety+=5
-           self.home
       def work(self):
           pass
       def shopping(self,manage):
